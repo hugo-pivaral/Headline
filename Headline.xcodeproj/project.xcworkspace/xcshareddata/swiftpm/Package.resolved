@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "uitabcontrol",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hugo-pivaral/UITabControl.git",
+      "state" : {
+        "revision" : "88f8996f5f805b46c7e68318836f8167b13d452b",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}

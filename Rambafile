@@ -1,0 +1,32 @@
+### Headers settings
+company: Hugop.dev
+
+### Xcode project settings
+project_name: Headline
+xcodeproj_path: Headline.xcodeproj
+
+### Code generation settings section
+# The main project target name
+project_target: Headline
+
+# The file path for new modules
+project_file_path: Features/FEATURE_NAME/Modules
+
+# The Xcode group path to new modules
+project_group_path: Features/FEATURE_NAME/Modules
+
+### Tests generation settings section
+# The tests target name
+test_target: HeadlineTests
+
+# The file path for new tests
+test_file_path: Features/FEATURE_NAME/Modules
+
+# The Xcode group path to new tests
+test_group_path: Features/FEATURE_NAME/Modules
+
+### Templates
+templates:
+- {name: rviper_controller}
+- {name: mvvm_controller}
+- {name: swifty_viper}
